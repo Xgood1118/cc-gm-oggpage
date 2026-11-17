@@ -15,11 +15,6 @@ class OggPage:
     crc_ok: bool = True
 
 
-def OggPage:
-    """class"""
-    raise NotImplementedError("OggPage 尚未实现")
-
-
 def parse_pages(data):
     """把字节流解析成页序列，坏页记入失败列表"""
     raise NotImplementedError("parse_pages 尚未实现")
