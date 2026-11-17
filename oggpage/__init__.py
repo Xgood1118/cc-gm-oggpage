@@ -1,1 +1,1 @@
-"""Ogg 页分片与重组"""
+from .core import *  # noqa: F401,F403
